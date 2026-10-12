@@ -41,10 +41,4 @@ This project uses machine learning to predict the likelihood of heart disease ba
 2. Run the application:
    `streamlit run app.py`
 
-## 📷 Screenshots
 
-Add screenshots of the application and results here.
-
-## ⚠️ Disclaimer
-
-This project is for educational purposes only and is not intended for medical diagnosis.

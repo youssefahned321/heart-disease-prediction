@@ -40,11 +40,19 @@ This project uses machine learning to predict the likelihood of heart disease ba
    `pip install -r requirements.txt`
 2. Run the application:
    `streamlit run app.py`
-Dashboard
-Screenshot 2026-08-14 173633.png
 
-Screenshot 2026-08-14 173839.png
+## Screenshots
 
-Screenshot 2026-08-14 173856.png
+![Model Results](output.png)
+
+![Prediction Output](outputt.png)
+
+![Screenshot 1](Screenshot%202026-08-14%20173633.png)
+
+![Screenshot 2](Screenshot%202026-08-14%20173839.png)
+
+![Screenshot 3](Screenshot%202026-08-14%20173856.png)
+
+
 
 
